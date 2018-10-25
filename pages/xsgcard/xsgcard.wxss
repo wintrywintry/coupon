@@ -1,0 +1,140 @@
+/* pages/xsgcard/xsgcard.wxss */
+
+.header {
+  width: 100%;
+  height: 250rpx;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cold {
+  width: 105rpx;
+  height: 75rpx;
+}
+
+.cardImg {
+  width: 105rpx;
+  height: 105rpx;
+}
+
+.indexImg {
+  width: 160rpx;
+  height: 160rpx;
+}
+
+.font {
+  font-size: 30rpx;
+  color: #acacac;
+}
+
+.index-font {
+  font-size: 32rpx;
+  color: #7b7b7b;
+  font-weight: bold;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+.font1_1{
+  margin-top:24rpx;
+
+}
+.bigImg {
+  width: 95%;
+  height: 500rpx;
+  margin: 36rpx auto 0;
+}
+
+.pizza {
+  width: 100%;
+  height: 500rpx;
+}
+
+.icons {
+  width: 80rpx;
+  height: 40rpx;
+}
+
+.cards {
+  font-size: 34rpx;
+  color: #544f49;
+  font-weight: bold;
+  margin-left:20rpx;
+}
+
+.row {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40rpx;
+}
+
+.cap {
+  width: 45%;
+}
+
+.smallImg {
+  width: 100%;
+  height: 270rpx;
+}
+
+.money {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.buy {
+  font-size: 30rpx;
+  color: #333;
+  font-weight: bold;
+  flex: 1;
+}
+
+.config-money {
+  color: #d73d3d;
+  font-size: 28rpx;
+  font-weight: bold;
+}
+
+.old-money {
+  font-weight: bold;
+  color: #7d7d7d;
+  font-size: 24rpx;
+  text-decoration: line-through;
+  margin-left: 10rpx;
+}
+
+.bottom {
+  height: 100rpx;
+  margin: auto;
+  width: 95%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.content {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  color: #5d5d5d;
+  font-size: 28rpx;
+  font-weight: bold;
+}
+
+.last {
+  margin-left: 20rpx;
+  margin-top: 40rpx;
+}
+.fonts{
+  margin-top:70rpx;
+  margin-left:20rpx;
+  display: flex;
+  align-items: center;
+}

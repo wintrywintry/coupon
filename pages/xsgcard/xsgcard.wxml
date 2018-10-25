@@ -1,0 +1,74 @@
+<!--pages/xsgcard/xsgcard.wxml-->
+<view>
+  <!-- 头部 -->
+  <view class="header">
+    <view class="flex">
+      <image class="cold" src='/xsgImage/xicon3_03.png'></image>
+      <text class="font font1_1">DQ冰雪皇后</text>
+    </view>
+    <view class="flex">
+      <image class="cardImg" src="/xsgImage/xicon1_03.png"></image>
+      <text class="font">肯德基</text>
+    </view>
+    <view class="flex">
+      <image class="indexImg" src='/xsgImage/xicon2_03.png'></image>
+      <text class="index-font">必胜客</text>
+    </view>
+    <view class="flex">
+      <image class="cardImg" src='/xsgImage/xicon4_03.png'></image>
+      <text class="font">全家</text>
+    </view>
+    <view class="flex">
+      <image class="cardImg" src="/xsgImage/xicon5_03.png"></image>
+      <text class="font">广州天福</text>
+    </view>
+  </view>
+  <!-- 中间 -->
+  <view class="bigImg">
+    <image class="pizza" src='/xsgImage/x2_03.png'></image>
+  </view>
+  <!-- 卡片 -->
+  <view>
+    <view class="fonts">
+      <image class="icons" src="/xsgImage/yun_03.png"></image>
+      <text class="cards">必胜客必胜卡</text>
+    </view>
+    <view class="row">
+      <view class="cap">
+        <image class="smallImg" src='/xsgImage/x2_03.png'></image>
+        <view class="bottom">
+          <view class="money">
+            <text class='buy'>50元必胜卡</text>
+            <text class="config-money">￥47.5</text>
+            <text class="old-money">$50</text>
+          </view>
+          <text class="content">世界杯，今晚约起！</text>
+        </view>
+      </view>
+      <view class="cap">
+        <image class="smallImg" src='/xsgImage/x3_03.png'></image>
+        <view class="bottom">
+          <view class="money">
+            <text class='buy'>100元必胜卡</text>
+            <text class="config-money">￥95</text>
+            <text class="old-money">$100</text>
+          </view>
+          <text class="content">祝你节日快乐</text>
+        </view>
+      </view>
+    </view>
+    <view class="last">
+      <view class="cap">
+        <image class="smallImg" src='/xsgImage/x4_07.png'></image>
+        <view class="bottom">
+          <view class="money">
+            <text class='buy'>200元必胜卡</text>
+            <text class="config-money">￥190</text>
+            <text class="old-money">$200</text>
+          </view>
+          <text class="content">走，请你吃 PIZZA</text>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
