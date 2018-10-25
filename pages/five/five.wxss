@@ -1,0 +1,5 @@
+/* pages/five/five.wxss */
+.img{
+  display: block;
+  height: 1200rpx;
+}
