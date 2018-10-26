@@ -19,7 +19,7 @@
       <text class="font">全家</text>
     </view>
     <view class="flex">
-      <image class="cardImg" src="/xsgImage/xicon5_03.png"></image>
+      <image bindtap='moveto' class="cardImg" src="/xsgImage/xicon5_03.png"></image>
       <text class="font">广州天福</text>
     </view>
   </view>

@@ -4,13 +4,14 @@
     "pages/zqycard/zqycard",
     "pages/five/five",
     "pages/xsgcard/xsgcard",
+    "pages/five/five",
     "pages/index/index",
     "pages/logs/logs"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "微信123",
+    "navigationBarTitleText": "微信",
     "navigationBarTextStyle": "black"
   }
 }
