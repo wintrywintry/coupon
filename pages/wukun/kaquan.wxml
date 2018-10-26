@@ -1,0 +1,62 @@
+<!--pages/kaquan/kaquan.wxml-->
+<view>
+<view class="header">
+<view class="box">
+<image src="/wukunImg/Screenshot_2018-10-25-16-38-44_03.png"
+class="img"></image>
+<text>喜士多</text>
+</view>
+<view class="box">
+<image src="/wukunImg/Screenshot_2018-10-25-16-38-44_04.png" class="img"></image>
+<text>DQ冰雪皇后</text>
+</view>
+<view class="box">
+<image src="/wukunImg/Screenshot_2018-10-25-16-38-44_05.png"
+class="img"></image>
+<text>肯德基</text>
+</view>
+<view class="box">
+<image src="/wukunImg/Screenshot_2018-10-25-16-38-44_07.png" class="img"></image>
+<text>必胜客</text>
+</view>
+<view class="box">
+<image src="/wukunImg/Screenshot_2018-10-25-16-38-44_09.png"
+class="img"></image>
+<text>全家</text>
+</view>
+</view>
+<view class="pic">
+<image src="/wukunImg/Screenshot_2018-10-25-16-38-44_15.png"></image>
+</view>
+<view class="middle">
+<image src="/wukunImg/Screenshot_2018-10-25-16-38-44_18.png" class="dianzi"></image>
+<text>DQ电子缤纷卡</text>
+</view>
+<view class="content">
+<view class="every">
+<image class="Img" src="/wukunImg/Screenshot_2018-10-25-16-38-44_21.png"></image>
+<text class="text">20元电子缤纷... ￥18</text>
+<text class="txt">可直接抵扣等值产品，多次使用</text>
+</view>
+<view class="every">
+<image class="Img" src="/wukunImg/Screenshot_2018-10-25-16-38-44_21.png"></image>
+<text class="text">20元电子缤纷... ￥18</text>
+<text class="txt">可直接抵扣等值产品，多次使用</text>
+</view>
+<view class="every">
+<image class="Img" src="/wukunImg/Screenshot_2018-10-25-16-38-44_21.png"></image>
+<text class="text">20元电子缤纷... ￥18</text>
+<text class="txt">可直接抵扣等值产品，多次使用</text>
+</view>
+<view class="every">
+<image class="Img" src="/wukunImg/Screenshot_2018-10-25-16-38-44_21.png"></image>
+<text class="text">20元电子缤纷... ￥18</text>
+<text class="txt">可直接抵扣等值产品，多次使用</text>
+</view>
+</view>
+<view class="every_1">
+<image class="Img" src="/wukunImg/Screenshot_2018-10-25-16-38-44_21.png"></image>
+<text class="text">20元电子缤纷... ￥18</text>
+<text class="txt">可直接抵扣等值产品，多次使用</text>
+</view>
+</view>
