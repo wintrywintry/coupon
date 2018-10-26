@@ -1,0 +1,47 @@
+<!--pages/zqycard/zqycard.wxml-->
+<view>
+  <view class='title'>
+    <view>
+      <image src='../../zqyimg/z1.png'></image>
+      <text>喜多士</text>
+    </view>
+
+    <view>
+      <image  src='../../zqyimg/z2.png'></image>
+      <text>DQ冰雪皇后</text>
+    </view>
+
+      <view class='midimg'>
+      <image  src='../../zqyimg/z3.png' class='midimg'></image>
+      <text>肯德基</text>
+      </view>
+
+      <view>
+      <image  src='../../zqyimg/z4.png'></image>
+      <text>必胜客</text>
+      </view>
+
+      <view>
+      <image  src='../../zqyimg/z5.png'></image>
+      <text>全家</text>
+    </view>
+</view>
+     
+      <view  class='middlecontent'>
+        <image src='../../zqyimg/z6.png' class='middle_img'></image>
+      </view>
+       
+        <view class='card'>
+         <image src='../../zqyimg/z7.png'></image>
+         <text>肯德基礼品卡</text>
+        </view>
+
+        <view class='togter'>
+            <image src='../../zqyimg/z8.png'></image>
+             <image src='../../zqyimg/z9.png'></image>
+        </view>
+
+        <view class='buttom'>
+            <image src='../../zqyimg/z10.png'></image>
+        </view>
+</view>
