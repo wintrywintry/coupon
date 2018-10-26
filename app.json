@@ -1,7 +1,7 @@
 {
   "pages": [
-    "pages/five/five",
     "pages/xsgcard/xsgcard",
+    "pages/five/five",
     "pages/index/index",
     "pages/logs/logs"
   ],
