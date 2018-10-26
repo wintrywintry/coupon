@@ -1,0 +1,33 @@
+<!--pages/lmcard/lm.wxml-->
+<!-- <text>pages/lmcard/lm.wxml</text> -->
+
+<view class='heda'>
+<view>
+<image src='../../lmimg/a (8).png' style="width:150rpx;height:150rpx"></image>
+</view>
+<view>
+<image src='../../lmimg/a (1).png' style="width:150rpx;height:150rpx"></image>
+</view>
+<view>
+<image src='../../lmimg/a (2).png' style="width:150rpx;height:150rpx"></image>
+</view>
+<view>
+<image src='../../lmimg/a (3).png' style="width:150rpx;height:150rpx"></image>
+</view>
+<view>
+<image src='../../lmimg/a (4).png' style="width:150rpx;height:150rpx"></image>
+</view>
+</view>
+
+<view class='card'>
+<image src='../../lmimg/a (5).png'></image>
+</view>
+
+<view class='xianjin' >
+<image src='../../lmimg/a (6).png' style='width:350rpx;height:200rpx'></image>
+<image src='../../lmimg/a (7).png' style='width:350rpx;height:200rpx'></image>
+</view>
+
+<view class='wushi'>
+<image src='../../lmimg/a (1).jpg' style='width:350rpx;height:200rpx'></image>
+</view>

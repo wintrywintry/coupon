@@ -1,0 +1,16 @@
+/* pages/lmcard/lm.wxss */
+.heda{
+  display: flex;
+}
+.card{
+  margin-left: -5rpx;
+  margin-top: 50rpx;
+}
+.xianjin{
+  margin-left: 25rpx;
+  margin-top: 50rpx;
+}
+.wushi{
+  margin-left: 25rpx;
+  
+}

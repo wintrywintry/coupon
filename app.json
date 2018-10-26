@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/lmcard/lm",
     "pages/zqycard/zqycard",
     "pages/five/five",
     "pages/xsgcard/xsgcard",
