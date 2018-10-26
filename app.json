@@ -1,11 +1,10 @@
 {
   "pages": [
+    "pages/xsgcard/xsgcard",
+    "pages/xuhaoCard/xuhaoCard",
     "pages/lmcard/lm",
     "pages/zqycard/zqycard",
     "pages/five/five",
-    "pages/xsgcard/xsgcard",
-    "pages/five/five",
-    "pages/xuhaoCard/xuhaoCard",
     "pages/index/index",
     "pages/logs/logs"
   ],

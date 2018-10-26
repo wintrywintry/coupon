@@ -48,13 +48,12 @@
 
 .bigImg {
   width: 95%;
-  height: 500rpx;
   margin: 36rpx auto 0;
 }
 
 .pizza {
   width: 100%;
-  height: 500rpx;
+  height: 400rpx;
 }
 
 .icons {
@@ -82,7 +81,7 @@
 
 .smallImg {
   width: 100%;
-  height: 270rpx;
+  height: 200rpx;
 }
 
 .money {
@@ -93,7 +92,7 @@
 }
 
 .buy {
-  font-size: 30rpx;
+  font-size: 26rpx;
   color: #333;
   font-weight: bold;
   flex: 1;
@@ -101,14 +100,14 @@
 
 .config-money {
   color: #d73d3d;
-  font-size: 28rpx;
+  font-size: 24rpx;
   font-weight: bold;
 }
 
 .old-money {
   font-weight: bold;
   color: #7d7d7d;
-  font-size: 24rpx;
+  font-size: 20rpx;
   text-decoration: line-through;
   margin-left: 10rpx;
 }
@@ -120,6 +119,10 @@
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  box-shadow:0 10rpx 5rpx gray;
+  border-radius: 10rpx;
+  padding:0 10rpx;
+  box-sizing: border-box;
 }
 
 .content {
@@ -132,8 +135,8 @@
 }
 
 .last {
-  margin-left: 20rpx;
-  margin-top: 40rpx;
+  /* margin-left: 20rpx; */
+  margin: 40rpx 0 40rpx 20rpx;
 }
 
 .fonts {
