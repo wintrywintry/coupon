@@ -1,0 +1,103 @@
+<!--pages/familyCard/familyCard.wxml-->
+<view>
+  <view class='header'>
+    <view>
+      <image src='../imgs/kende.png' class='minimg'></image>
+      <text>肯德基</text>
+    </view>
+    <view>
+      <image src='../imgs/pissza.png' class='minimg'></image>
+      <text>必胜客</text>
+    </view>
+    <view>
+      <image src='../imgs/allfamily.png' class='bigimg'></image>
+      <text class='bigtxt'>全家</text>
+    </view>
+    <view>
+      <image src='../imgs/tianfu.png' class='minimg'></image>
+      <text>广州天福</text>
+    </view>
+    <view>
+      <image src='../imgs/shanlin.png' class='minimg'></image>
+      <text>山林</text>
+    </view>
+  </view>
+  <view class='banner'>
+    <image src='../imgs/wewin.png' class='banerimg'></image>
+  </view>
+  <view class='titlecard'>
+    <image src='../imgs/yun.png' class='yunimg'></image>
+    <text class='titlecardtxt'>全家心意卡</text>
+  </view>
+  <view class='cards'>
+    <view class='left'>
+      <view class='five'>
+        <image src='../imgs/five.png' class='imglist'></image>
+        <view class='fivetxt'>
+          <text class='redtxt'>5元现金券</text>
+          <view class='fivemoney'>￥5
+            <text class='throunthline'>￥5</text>
+          </view>
+        </view>
+        <view class='news'>
+          <text>不限品类，可兑换任意商品</text>
+          <view class='linerstyle'></view>
+        </view>
+      </view>
+       <view class='five'>
+        <image src='../imgs/twn.png' class='imglist'></image>
+        <view class='fivetxt'>
+          <text class='redtxt'>20元现金券</text>
+          <view class='fivemoney'>￥20
+            <text class='throunthline'>￥20</text>
+          </view>
+        </view>
+        <view class='news'>
+          <text>不限品类，可兑换任意商品</text>
+          <view class='linerstyle'></view>
+        </view>
+      </view>
+        <view class='five'>
+        <image src='../imgs/fifty.png' class='imglist'></image>
+        <view class='fivetxt'>
+          <text class='redtxt'>50元现金券</text>
+          <view class='fivemoney'>￥50
+            <text class='throunthline'>￥50</text>
+          </view>
+        </view>
+        <view class='news'>
+          <text>不限品类，可兑换任意商品</text>
+          <view class='linerstyle'></view>
+        </view>
+      </view>
+    </view>
+    <view class='right'>
+      <view class='five'>
+        <image src='../imgs/ten.png' class='imglist'></image>
+        <view class='fivetxt'>
+          <text class='redtxt'>10元现金券</text>
+          <view class='fivemoney'>￥10
+            <text class='throunthline'>￥10</text>
+          </view>
+        </view>
+        <view class='news'>
+          <text>不限品类，可兑换任意商品</text>
+          <view class='linerstyle'></view>
+        </view>
+      </view>
+        <view class='five'>
+        <image src='../imgs/third.png' class='imglist'></image>
+        <view class='fivetxt'>
+          <text class='redtxt'>30元现金券</text>
+          <view class='fivemoney'>￥30
+            <text class='throunthline'>￥30</text>
+          </view>
+        </view>
+        <view class='news'>
+          <text>不限品类，可兑换任意商品</text>
+          <view class='linerstyle'></view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

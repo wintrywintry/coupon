@@ -12,11 +12,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.3.0",
-<<<<<<< HEAD
-	"appid": "wxd430031715abd018",
-=======
-	"appid": "wx1f078bf0eeb09cb8",
->>>>>>> e55690db44e8ee75fd4140ef43401461edab3534
+	"appid": "wxe18e799b9c830ec2",
 	"projectname": "coupon",
 	"debugOptions": {
 		"hidedInDevtools": []
