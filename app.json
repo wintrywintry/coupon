@@ -1,5 +1,8 @@
 {
   "pages": [
+
+    "pages/zqycard/zqycard",
+    "pages/five/five",
     "pages/xsgcard/xsgcard",
     "pages/five/five",
     "pages/index/index",
